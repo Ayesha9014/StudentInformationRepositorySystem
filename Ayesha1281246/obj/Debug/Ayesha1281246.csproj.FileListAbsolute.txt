@@ -1,0 +1,28 @@
+C:\Users\Lab104-02\Downloads\1281246\C# all\Ayesha1281246\Ayesha1281246\bin\Debug\Ayesha1281246.exe.config
+C:\Users\Lab104-02\Downloads\1281246\C# all\Ayesha1281246\Ayesha1281246\bin\Debug\Ayesha1281246.exe
+C:\Users\Lab104-02\Downloads\1281246\C# all\Ayesha1281246\Ayesha1281246\bin\Debug\Ayesha1281246.pdb
+C:\Users\Lab104-02\Downloads\1281246\C# all\Ayesha1281246\Ayesha1281246\obj\Debug\Ayesha1281246.csproj.AssemblyReference.cache
+C:\Users\Lab104-02\Downloads\1281246\C# all\Ayesha1281246\Ayesha1281246\obj\Debug\Ayesha1281246.csproj.CoreCompileInputs.cache
+C:\Users\Lab104-02\Downloads\1281246\C# all\Ayesha1281246\Ayesha1281246\obj\Debug\Ayesha1281246.exe
+C:\Users\Lab104-02\Downloads\1281246\C# all\Ayesha1281246\Ayesha1281246\obj\Debug\Ayesha1281246.pdb
+\\192.168.188.234\Shared\Projects\1281246 project\Ayesha1281246\Ayesha1281246\bin\Debug\Ayesha1281246.exe.config
+\\192.168.188.234\Shared\Projects\1281246 project\Ayesha1281246\Ayesha1281246\bin\Debug\Ayesha1281246.exe
+\\192.168.188.234\Shared\Projects\1281246 project\Ayesha1281246\Ayesha1281246\bin\Debug\Ayesha1281246.pdb
+\\192.168.188.234\Shared\Projects\1281246 project\Ayesha1281246\Ayesha1281246\obj\Debug\Ayesha1281246.csproj.AssemblyReference.cache
+\\192.168.188.234\Shared\Projects\1281246 project\Ayesha1281246\Ayesha1281246\obj\Debug\Ayesha1281246.csproj.CoreCompileInputs.cache
+\\192.168.188.234\Shared\Projects\1281246 project\Ayesha1281246\Ayesha1281246\obj\Debug\Ayesha1281246.exe
+\\192.168.188.234\Shared\Projects\1281246 project\Ayesha1281246\Ayesha1281246\obj\Debug\Ayesha1281246.pdb
+D:\R59\M3\Projects\Ayesha1281246\Ayesha1281246\bin\Debug\Ayesha1281246.exe.config
+D:\R59\M3\Projects\Ayesha1281246\Ayesha1281246\bin\Debug\Ayesha1281246.exe
+D:\R59\M3\Projects\Ayesha1281246\Ayesha1281246\bin\Debug\Ayesha1281246.pdb
+D:\R59\M3\Projects\Ayesha1281246\Ayesha1281246\obj\Debug\Ayesha1281246.csproj.AssemblyReference.cache
+D:\R59\M3\Projects\Ayesha1281246\Ayesha1281246\obj\Debug\Ayesha1281246.csproj.CoreCompileInputs.cache
+D:\R59\M3\Projects\Ayesha1281246\Ayesha1281246\obj\Debug\Ayesha1281246.exe
+D:\R59\M3\Projects\Ayesha1281246\Ayesha1281246\obj\Debug\Ayesha1281246.pdb
+C:\Users\hp\Downloads\1281246\1281246\Ayesha1281246\bin\Debug\Ayesha1281246.exe.config
+C:\Users\hp\Downloads\1281246\1281246\Ayesha1281246\bin\Debug\Ayesha1281246.exe
+C:\Users\hp\Downloads\1281246\1281246\Ayesha1281246\bin\Debug\Ayesha1281246.pdb
+C:\Users\hp\Downloads\1281246\1281246\Ayesha1281246\obj\Debug\Ayesha1281246.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\1281246\1281246\Ayesha1281246\obj\Debug\Ayesha1281246.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\1281246\1281246\Ayesha1281246\obj\Debug\Ayesha1281246.exe
+C:\Users\hp\Downloads\1281246\1281246\Ayesha1281246\obj\Debug\Ayesha1281246.pdb
